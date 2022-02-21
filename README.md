@@ -86,4 +86,3 @@ The application should be now accessible by reaching the following example URL:
 open https://whoami.demo.traefiklabs.tech
 ```
 
-As you can see everyone is able to visit the application and to see the headers displayed by the Whoami application. The next step is to protect that application by deploying [OpenID Connect Middleware](https://doc.traefik.io/traefik-enterprise/middlewares/oidc/)
